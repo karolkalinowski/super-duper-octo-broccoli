@@ -1,0 +1,7 @@
+{
+  "projectNameEmpty": "Nazwa projektu nie może byc pusta",
+  "cantDeleteUsedNode": "Nie można usunąć węzła użytego jako przyczyna przez inne węzły!",
+  "invalidCausalityOrder": "Błąd: Węzły-przyczyny nie mogą znajdować się po swoich skutkach!",
+  "noApiKey": "Klucz API Gemini jest wymagany dla funkcji AI",
+  "aiGenerationFailed": "Nie udało się wygenerować propozycji AI"
+}

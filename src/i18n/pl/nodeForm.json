@@ -1,0 +1,17 @@
+{
+  "editTitle": "Edytuj Węzeł",
+  "createTitle": "Nowy Węzeł",
+  "titleLabel": "Tytuł",
+  "descriptionLabel": "Opis",
+  "causesLabel": "Przyczyny",
+  "tagsLabel": "Etykiety",
+  "tagsPlaceholder": "Wprowadź nową etykietę...",
+  "addTag": "Dodaj Etykietę",
+  "generateAI": "Generuj z AI",
+  "causesPlaceholder": "Szukaj węzłów...",
+  "noNodesFound": "Brak pasujących węzłów",
+  "noCausesFound": "Nie znaleziono żadnych prawidłowych przyczyn (tylko chronologicznie wcześniejsze węzły mogą być przyczynami)",
+  "generatingAI": "Generowanie propozycji...",
+  "aiSuggestions": "Propozycje AI",
+  "closeSuggestions": "Zamknij propozycje"
+}

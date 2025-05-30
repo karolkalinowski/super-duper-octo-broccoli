@@ -1,0 +1,23 @@
+{
+  "title": "My Projects",
+  "newProject": "New Project",
+  "createTitle": "Create New Project",
+  "namePlaceholder": "Project name",
+  "createButton": "Create",
+  "exportTooltip": "Export all projects",
+  "importTooltip": "Import projects",
+  "deleteTitle": "Delete project?",
+  "deleteDescription": "This action cannot be undone. All nodes and connections will be permanently removed.",
+  "copyTooltip": "Make a copy",
+  "createSuccess": "Project created successfully",
+  "deleteSuccess": "Project deleted successfully",
+  "copySuccess": "Project copied successfully",
+  "exportSuccess": "Projects exported successfully",
+  "importSuccess": "Projects imported successfully",
+  "importError": "Error importing projects",
+  "renameTitle": "Rename Project",
+  "renameButton": "Save Changes",
+  "renameTooltip": "Rename Project",
+  "renameSuccess": "Project renamed successfully",
+  "backToProjects": "Back to My Projects"
+}

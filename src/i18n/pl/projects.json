@@ -1,0 +1,23 @@
+{
+  "title": "Moje Projekty",
+  "newProject": "Nowy Projekt",
+  "createTitle": "Utwórz Nowy Projekt",
+  "namePlaceholder": "Nazwa projektu",
+  "createButton": "Utwórz",
+  "exportTooltip": "Eksportuj wszystkie projekty",
+  "importTooltip": "Importuj projekty",
+  "deleteTitle": "Usunąć projekt?",
+  "deleteDescription": "Tej operacji nie można cofnąć. Wszystkie węzły i połączenia zostaną trwale usunięte.",
+  "copyTooltip": "Utwórz kopię",
+  "createSuccess": "Projekt został utworzony",
+  "deleteSuccess": "Projekt został usunięty",
+  "copySuccess": "Utworzono kopię projektu",
+  "exportSuccess": "Projekty zostały wyeksportowane",
+  "importSuccess": "Projekty zostały zaimportowane",
+  "importError": "Błąd podczas importowania projektów",
+  "renameTitle": "Zmień nazwę projektu",
+  "renameButton": "Zapisz zmiany",
+  "renameTooltip": "Zmień nazwę projektu",
+  "renameSuccess": "Nazwa projektu została zmieniona",
+  "backToProjects": "Powrót do Moich Projektów"
+}

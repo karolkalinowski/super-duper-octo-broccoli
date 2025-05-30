@@ -1,0 +1,17 @@
+{
+  "editTitle": "Edit Node",
+  "createTitle": "Create New Node",
+  "titleLabel": "Title",
+  "descriptionLabel": "Description",
+  "causesLabel": "Causes",
+  "tagsLabel": "Tags",
+  "tagsPlaceholder": "Enter new tag...",
+  "addTag": "Add Tag",
+  "generateAI": "Generate with AI",
+  "causesPlaceholder": "Search for nodes...",
+  "noNodesFound": "No matching nodes found",
+  "noCausesFound": "No valid causes found (only chronologically earlier nodes can be causes)",
+  "generatingAI": "Generating suggestions...",
+  "aiSuggestions": "AI Suggestions",
+  "closeSuggestions": "Close Suggestions"
+}
